@@ -1,4 +1,4 @@
-# Akhil Chazhoor
+# Akhil John Chazhoor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akhiljohnchazhoor/)
 [![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=flat-square&logo=gmail)](mailto:akhiljohnchazhoor@gmail.com)
