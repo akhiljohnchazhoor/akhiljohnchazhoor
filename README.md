@@ -1,16 +1,20 @@
-## Hi there 👋
+# Akhil Chazhoor
 
-<!--
-**akhiljohnchazhoor/akhiljohnchazhoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/
+akhiljohnchazhoor)
+[![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=flat-square&logo=gmail)](mailto:akhiljohnchazhoor@gmail.com)
 
-Here are some ideas to get you started:
+>  Computer Science and Engineering student at the National Institute of Technology (NIT) Calicut. Driven by a deep interest in low-level memory architecture and the mathematical structures that power optimized algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Academic Rigor
+* **Institution:** NIT Calicut — B.Tech CSE
+* **Competitive Ranks:** JEE Advanced: **13,209** | JEE Mains: **8,452** | KEAM: **Rank 40**
+
+---
+
+### 🏗️ Current Projects & Research
+* **`[Web Development]`** - *Architected and deployed a scalable Customer Module.*
+* **`[Web Development]`** - *Engineered a real-time Live GPS tracking system.*
+* **`[Web Development]`** - *Integrated an AI-driven diagnosis pipeline.*
