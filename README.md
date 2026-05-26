@@ -1,7 +1,6 @@
 # Akhil Chazhoor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/
-akhiljohnchazhoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akhiljohnchazhoor/)
 [![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=flat-square&logo=gmail)](mailto:akhiljohnchazhoor@gmail.com)
 
 >  Computer Science and Engineering student at the National Institute of Technology (NIT) Calicut. Driven by a deep interest in low-level memory architecture and the mathematical structures that power optimized algorithms.
