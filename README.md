@@ -13,7 +13,7 @@
 
 ---
 
-### 🏗️ Current Projects & Research
+### 🏗️ Projects
 * **`[Web Development]`** - *Architected and deployed a scalable Customer Module.*
 * **`[Web Development]`** - *Engineered a real-time Live GPS tracking system.*
 * **`[Web Development]`** - *Integrated an AI-driven diagnosis pipeline.*
