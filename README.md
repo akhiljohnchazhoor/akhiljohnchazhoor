@@ -14,21 +14,12 @@
 ---
 
 ### 🏗️ Projects
-* [Web Development] - Architected and deployed a scalable Customer Module.
-* [Web Development] - Engineered a real-time Live GPS tracking system.
-* [Web Development] - Integrated an AI-driven diagnosis pipeline.
-* [Mobile Development] - Executed local deployment and verification of the Technician mobile application.
-* [Full Stack Integration] - Executed end-to-end integration of the Service Agreement Module across the primary web application and the mobile Technician app.
-* [Feature Development] - Developed and integrated a synchronized SLA tracking mechanism with cross-platform timers for real-time monitoring.
-* [Feature Development] - Engineered and deployed a dynamic countdown mechanism within the Work Order data grid.
-* [System Alerts] - Engineered a real-time alert system notifying admins of SLA breaches and technician service request updates.
-* [Database Management] - Engineered new '**Assets**' and '**Maintenance Plan**' data fields within the Customer Management module.
-* [UI/UX Redesign] - Overhauled the visual layout and user experience for '**Company Details**' and '**Contact Details**' sections modeling Zoho-style design principles.
-* [Form Enhancement] - Upgraded the '**Create Contact**' workflow to support dynamic data entry and dual address segregation.
-* [Backend Architecture] - Established backend database links between newly updated Customer Management sections and dependent modules.
-* [Version Control] - Handled complex merge conflicts within the project and successfully synchronized the local repository with the remote branch.
-* [Data Engineering] - Engineered Bulk Import (CSV upload) and robust Bulk Export functionalities with professional formatting.
-* [Bug Resolution] - Resolved a fatal PostgreSQL crash by explicitly restricting eager-loaded attributes during API calls.
-* [Bug Resolution] - Fixed silent frontend crashes and corrected build-breaking **TypeScript** interface mismatches.
-* [Data Deduplication] - Developed a Merge Records engine to seamlessly combine duplicate records and reparent all child entities.
-* [Feature Management] - Implemented a Change Owner mechanism to reassign record ownership for individual entities and in bulk.
+* **[Full Stack Engineering] - FieldForcePro Field Service Management (FSM) Platform**
+  * Engineered a comprehensive Field Service Management web application from scratch, architecting a scalable Customer Module and a real-time Live GPS tracking system.
+  * Engineered and deployed a dynamic countdown mechanism within the Work Order data grid.
+  * Deployed cross-platform synchronized SLA tracking, integrated an AI-driven diagnosis pipeline, and built robust data deduplication and export engines.
+  * Fixed silent frontend crashes and corrected build-breaking **TypeScript** interface mismatches.
+
+* **[Low-Level Architecture] - C Data Structures Library**
+  * Developed a collection of manually implemented, memory-optimized data structures in C.
+  * Engineered custom logic for behaviour of algorithms such as searching, sorting, linked list, stacks, queues, heap, hashing and dictionaries.
