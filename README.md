@@ -20,6 +20,9 @@
   * Deployed cross-platform synchronized SLA tracking, integrated an AI-driven diagnosis pipeline, and built robust data deduplication and export engines.
   * Fixed silent frontend crashes and corrected build-breaking **TypeScript** interface mismatches.
 
+* **[Backend Engineering] - Nexus Utility Bot**
+  * Engineered a modular Discord utility application using Node.js and Discord.js, architecting a dynamic command handler and event-driven architecture.
+
 * **[Low-Level Architecture] - C Data Structures Library**
   * Developed a collection of manually implemented, memory-optimized data structures in C.
   * Engineered custom logic for behaviour of algorithms such as searching, sorting, linked list, stacks, queues, heap, hashing and dictionaries.
