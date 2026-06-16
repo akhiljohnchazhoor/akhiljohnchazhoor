@@ -20,6 +20,12 @@
   * Deployed cross-platform synchronized SLA tracking, integrated an AI-driven diagnosis pipeline, and built robust data deduplication and export engines.
   * Fixed silent frontend crashes and corrected build-breaking **TypeScript** interface mismatches.
 
+* **[Systems Architecture] - In-Memory Git Engine Simulator**
+  * Engineered a zero-dependency Git version control simulator from scratch in pure **JavaScript**, utilizing a Directed Acyclic Graph (DAG) to track complex commit lineages and historical states.
+  * Architected custom memory pointer manipulation logic to manage diverging branch timelines, Fast-Forward merges, recursive 3-way merges, and history-rewriting rebases.
+  * Designed and implemented Breadth-First Search (BFS) algorithms to navigate non-linear graph histories and dynamically resolve Lowest Common Ancestor (LCA) convergence nodes.
+  * Built a comprehensive, modular validation suite to mathematically assert the structural integrity of the graph and traversal paths across multiple divergent repository states.
+
 * **[Backend Engineering] - Nexus Utility Bot**
   * Engineered a modular Discord utility application using Node.js and Discord.js, architecting a dynamic command handler and event-driven architecture.
 
