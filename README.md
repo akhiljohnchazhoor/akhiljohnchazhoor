@@ -26,6 +26,12 @@
   * Designed and implemented Breadth-First Search (BFS) algorithms to navigate non-linear graph histories and dynamically resolve Lowest Common Ancestor (LCA) convergence nodes.
   * Built a comprehensive, modular validation suite to mathematically assert the structural integrity of the graph and traversal paths across multiple divergent repository states.
 
+* **[Systems Architecture] - Persistent C-Based Relational Database Engine**
+  * Engineered a persistent, lightweight SQLite clone from scratch in pure **C**, implementing a multi-level B-Tree data structure to ensure logarithmic time complexity for disk-based indexing and queries.
+  * Architected a custom memory Pager with state-tracking "dirty page" flags to drastically optimize disk I/O, executing expensive raw system writes only on explicitly mutated data blocks.
+  * Developed a custom Write-Ahead Log (WAL) system utilizing low-level POSIX file I/O (`fsync`) to guarantee crash resilience, silently reconstructing and replaying lost memory states upon sudden power failures.
+  * Engineered complex pointer arithmetic and manual memory block shifting (`memcpy`) to natively parse and execute in-place `INSERT`, `UPDATE`, `SELECT`, and `DELETE` commands.
+
 * **[Backend Engineering] - Nexus Utility Bot**
   * Engineered a modular Discord utility application using Node.js and Discord.js, architecting a dynamic command handler and event-driven architecture.
 
